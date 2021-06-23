@@ -1,3 +1,4 @@
+package src.Personajes;
 public class Hobbit extends Heroes {
 
     private static int contadorInstancias;

@@ -1,9 +1,8 @@
+package src.Principal;  
 public class juego {
 
     private Bestias ejercitoBestias[];
     private Heroes ejercitoHeroes[];
-
-    //private int contadorHumanos;
     
     public juego(){
         ejercitoBestias = new Bestias[5];
@@ -22,10 +21,6 @@ public class juego {
             }
 
             System.out.println("\nPresentando ejercito de "+tempo);
-            //ejemplo con operador ternario
-            /**System.out.println("\nPresentando ejercito de "+
-                            (ejercito[0] instanceof Bestias?"Bestias":"Herores")
-                            );**/
 
             for (int i = 0; i < ejercito.length; i++) {
                 ejercito[i].saludar();

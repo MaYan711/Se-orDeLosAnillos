@@ -1,3 +1,4 @@
+package src.Personajes;
 public class Orco extends Bestias {
     
     private static int contadorInstancias;

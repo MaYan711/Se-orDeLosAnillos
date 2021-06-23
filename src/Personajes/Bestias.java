@@ -1,3 +1,4 @@
+package src.Personajes;
 public class Bestias extends Personaje {
     
     private static int ataqueMaximo = 90;

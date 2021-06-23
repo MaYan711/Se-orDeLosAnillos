@@ -1,4 +1,4 @@
-
+package src.Personajes;
 public class Humano extends Heroes {
 
     private static int contadorInstancias;

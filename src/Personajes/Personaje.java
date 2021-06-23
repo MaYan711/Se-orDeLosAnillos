@@ -1,3 +1,4 @@
+package src.Personajes;
 public class Personaje {
 
     protected int vida;

@@ -1,4 +1,4 @@
-  
+package src.Principal;  
 public class Dado {
 
     public Dado(){

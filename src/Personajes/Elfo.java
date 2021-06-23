@@ -1,3 +1,4 @@
+package src.Personajes;
 public class Elfo extends Heroes {
 
     public Elfo(String nombre){

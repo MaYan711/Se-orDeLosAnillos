@@ -1,3 +1,4 @@
+package src.Personajes;
 public class Heroes extends Personaje {
 
     private static int ataqueMaximo = 100;
